@@ -77,6 +77,8 @@ This project implements the backend for an e-commerce platform built using Sprin
 
 ---
 
+## Postman Workspace
+You can also test the API through the shared Postman workspace:
 [<img src="https://run.pstmn.io/button.svg" alt="Run In Postman" style="width: 128px; height: 32px;">](https://god.gw.postman.com/run-collection/37739159-d3965a51-94ac-419c-8068-b965338288db?action=collection%2Ffork&source=rip_markdown&collection-url=entityId%3D37739159-d3965a51-94ac-419c-8068-b965338288db%26entityType%3Dcollection%26workspaceId%3Ddbeb00ea-a61f-4017-acac-c435de319aa6)
 
 ## Contribution
